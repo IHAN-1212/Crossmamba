@@ -107,6 +107,11 @@ If you have any questions or concerns, please contact us: YuhanLin4038@outlook.c
 If you find this repo useful in your research, please consider citing our paper as follows:
 
 ```
-
+@article{YL-2025-Crossmamba,
+  title={Crossmamba: Multivariate Time Series Forecasting Model for Cross-temporal and Cross-dimensional Dependencies with Mamba},
+  author={Yuhan Lin, Liping Xiong, Zhiyong Hong, Zhiqiang Zeng, Jian Zeng, Guoqiang Zeng},
+  journal={Data Mining and Knowledge Discovery},
+  year={2025}
+}
 ```
 
