@@ -198,7 +198,7 @@ class MamMLP(nn.Module):
 
     def forward(self, Z):
         Z_mam = self.norm1(self.dropout(self.mamba(Z)) + Z)
-        Z_mammlp = self.norm1(self.dropout(self.MLP(Z_mam)) + Z_mam)
+        Z_mammlp = self.norm2(self.dropout(self.MLP(Z_mam)) + Z_mam)
         return Z_mammlp
 
 class FDSE(nn.Module):
