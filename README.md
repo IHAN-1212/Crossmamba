@@ -1,7 +1,3 @@
-```
-
-```
-
 # Crossmamba ([Data Mining and Knowledge Discovery](https://link.springer.com/journal/10618))
 
 ## This is an offical implementation of Crossmamba: [Multivariate Time Series Forecasting Model for Cross-temporal and Cross-dimensional Dependencies with Mamba](). 
